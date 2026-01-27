@@ -15,7 +15,7 @@ This guide outlines the standard procedure for submitting a new incident ticket 
 2. Authenticate using your enterprise credentials if prompted.
 
 # Step 2: Navigate to Incidents
-
+![image alt](https://github.com/glenpagesr-dev/servicenow/blob/747cf183cd8d312257061de883ee76ba9228fd4b/SN%20incidents.png)
 1. From the ServiceNow homepage, select All to view the full application menu.
 
 2. In the menu, locate and select Incidents.
