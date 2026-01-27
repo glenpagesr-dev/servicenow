@@ -9,7 +9,7 @@ Creating an Incident Ticket in ServiceNow
 This guide outlines the standard procedure for submitting a new incident ticket through the ServiceNow portal, following common IT service management (ITSM) practices.
 
 # Step 1: Access the ServiceNow Portal
-
+![image alt](https://github.com/glenpagesr-dev/servicenow/blob/975ee4f4665eda0a18bb0360a59448e736d43984/SN%20portal.png)
 1. Navigate to the ServiceNow Portal using your organization’s designated URL.
 
 2. Authenticate using your enterprise credentials if prompted.
