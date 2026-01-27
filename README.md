@@ -43,7 +43,7 @@ This guide outlines the standard procedure for submitting a new incident ticket 
 4. Providing detailed and accurate information helps expedite triage and resolution.
 
 # Step 5: Submit the Incident
-
+![image alt](https://github.com/glenpagesr-dev/servicenow/blob/3abc56be6977ed90ee831659a57b5fb61222a0e1/SN%20submit.png)
 1. Review the entered information for accuracy and completeness.
 
 2. Click Submit to create the incident ticket.
