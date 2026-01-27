@@ -21,7 +21,7 @@ This guide outlines the standard procedure for submitting a new incident ticket 
 2. In the menu, locate and select Incidents.
 
 # Step 3: Create a New Incident
-
+![image alt](https://github.com/glenpagesr-dev/servicenow/blob/c31fab2aeb24ad28b971b6a69965209675bc9263/SN%20new.png)
 1. On the Incidents page, click New to open a blank incident form.
 
 # Step 4: Enter Incident Details
